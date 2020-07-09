@@ -10,7 +10,7 @@ const ProfilePage: React.FC = () => {
         <Banner>
             <Avatar/>
         </Banner>
-
+ 
         <ProfileData>
             <EditButton outlined>Editar Perfil</EditButton>
 

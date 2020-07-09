@@ -20,7 +20,7 @@ const Tweet: React.FC = () => {
                 <time>09 de julho</time>
               </Header>
 
-              <Description>Descrição do Twetter</Description>
+              <Description>Descrição do Twitter</Description>
 
               <ImageContent />
 

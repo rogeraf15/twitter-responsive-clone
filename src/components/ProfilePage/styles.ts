@@ -37,7 +37,7 @@ export const Avatar = styled.div`
     border-radius: 50%;
 
     position: absolute; /** precisa que o pai esteja com a position: relative */
-    bottom: max(-60px, -10vh);
+    bottom: max(-60px, -10vw);
     left: 15px;
 `;
 
