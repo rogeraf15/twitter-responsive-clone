@@ -13,7 +13,7 @@ export const Container = styled.div`
       top: 0;
       left: 0;
 
-      padding: 9px 19px 20px;
+      padding: 9px 25px 20px 19px;
 
       max-height: 100vh;
       
